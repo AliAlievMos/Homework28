@@ -1,0 +1,14 @@
+// The TreeSong Table
+digraph {
+	A [label="Dot A"]
+	B [label="Dot B"]
+	C [label="Dot C"]
+	D [label="Dot D"]
+	E [label="Dot E"]
+	F [label="Dot F"]
+	A -> B
+	D -> C
+	A -> D
+	B -> E
+	E -> F
+}
